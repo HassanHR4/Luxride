@@ -358,7 +358,7 @@ export default {
 
 .contact-section {
   background-color: #000000; /* Black background for the section */
-  height: 550px;
+  height: 450px;
   color: white;
 }
 

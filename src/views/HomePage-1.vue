@@ -792,7 +792,7 @@ export default {
 }
 
 .home2 {
-    height: 500px;
+    height: 579px;
     background-image: url("@/assets/business woman and driver.png");
     background-size: cover;
     background-repeat: no-repeat;
